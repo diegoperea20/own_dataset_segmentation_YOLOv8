@@ -1,0 +1,5 @@
+train : C:\Users\User\Desktop\segmentation\Data\train\
+val : C:\Users\User\Desktop\segmentation\Data\val\
+test: 
+nc : 1
+names: ['coin200']
