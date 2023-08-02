@@ -49,5 +49,7 @@ De forma local, realizarlo con un entorno virtual como por ejemplo conda con pyt
 conda create -n mi_entorno python=3.8
 
 pip install -r requirements.txt
+
+#Ejecutar main.py
 ```
 
